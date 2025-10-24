@@ -1,6 +1,7 @@
 # -----------------------------
 # Provider Configuration
 # -----------------------------
+creating vpc
 terraform {
   required_providers {
     aws = {
